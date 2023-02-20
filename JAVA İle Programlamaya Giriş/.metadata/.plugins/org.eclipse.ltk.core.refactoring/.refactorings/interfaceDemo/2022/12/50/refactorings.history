@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;interfaceDemo.IPaypal&apos; to &apos;IPayable&apos;&#x0D;&#x0A;- Original project: &apos;interfaceDemo&apos;&#x0D;&#x0A;- Original element: &apos;interfaceDemo.IPaypal&apos;&#x0D;&#x0A;- Renamed element: &apos;interfaceDemo.IPayable&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;IPaypal&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;interfaceDemo{IPaypal.java[IPaypal" matchStrategy="1" name="IPayable" qualified="false" references="true" similarDeclarations="false" stamp="1670438679664" textual="false" version="1.0"/>
+</session>

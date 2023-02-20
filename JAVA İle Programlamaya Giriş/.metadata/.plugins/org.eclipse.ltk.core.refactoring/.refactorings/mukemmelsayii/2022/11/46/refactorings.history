@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;mukemmelsayii.mukemmelSayi&apos; to &apos;mukemmelSayii&apos;&#x0D;&#x0A;- Original project: &apos;mukemmelsayii&apos;&#x0D;&#x0A;- Original element: &apos;mukemmelsayii.mukemmelSayi&apos;&#x0D;&#x0A;- Renamed element: &apos;mukemmelsayii.mukemmelSayii&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;mukemmelSayi&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;mukemmelsayii{mukemmelSayi.java[mukemmelSayi" matchStrategy="1" name="mukemmelSayii" qualified="false" references="true" similarDeclarations="false" stamp="1668354091739" textual="false" version="1.0"/>
+</session>
